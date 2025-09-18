@@ -1,6 +1,7 @@
 EX NO: Cloud-account-set-up-and-services
 
 Name : Manisha selvakumari.S.S.
+
 Reg no: 212223220055
 
 Aim:
@@ -74,6 +75,7 @@ Services Overview:
 
 Output:
 <img width="1920" height="1080" alt="Screenshot (306)" src="https://github.com/user-attachments/assets/fcde6eb4-b4a5-4eb8-ba0a-656abfc63cfc" />
+
 
 Result:
 Thus an account was created in AWS platform and all the services were explored.
